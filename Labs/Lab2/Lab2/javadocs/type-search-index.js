@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Brand","h":"","u":""},{"l":"Color","h":"","u":""},{"l":"Kind","h":"","u":""},{"l":"Shoe","h":"","u":""},{"l":"所有类","h":"","u":"allclasses-index.html"}]
