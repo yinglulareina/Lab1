@@ -4,3 +4,9 @@
 *.iml
 out/
 .DS_Store
+
+# macOS / IntelliJ
+.DS_Store
+.idea/
+*.iml
+out/
