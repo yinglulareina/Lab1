@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Bishop","h":"","u":""},{"l":"ChessPiece","h":"","u":""},{"l":"ChessPieceContract","h":"","u":""},{"l":"Color","h":"","u":""},{"l":"King","h":"","u":""},{"l":"Knight","h":"","u":""},{"l":"Pawn","h":"","u":""},{"l":"Queen","h":"","u":""},{"l":"Rook","h":"","u":""},{"l":"所有类","h":"","u":"allclasses-index.html"}]
