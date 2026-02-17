@@ -1,0 +1,29 @@
+# --- Java complie outcome ---
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# --- build file ---
+bin/
+build/
+out/
+target/
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+gen/
+
+# --- temp file ---
+.DS_Store
+Thumbs.db
